@@ -20,44 +20,46 @@ From Wikipedia
 
 **In my exercises , There is no check for invalid input**
 
-### List
+## Data structure
+
+##### List
 - [x] Simple linked list
 - [x] Doubly linked list
 - [ ] Circular linked list
 
-### Stack
+##### Stack
 - [x] Stack using linked list
 
-### Queue
+##### Queue
 - [x] Queue using linked list
 - [ ] Priority queue
 
-### Sort
+##### Sort
 - [ ] Bubble sort
 - [ ] Insertion sort
 - [ ] Selection sort
 - [ ] Merge sort
 - [ ] Quick sort
 
-### Search
-- [ ] Linear search
+##### Search
+- [x] Linear search
 - [ ] Binary search
 - [ ] HashTable
 - [ ] Interpolation search
 
-### Graph
+##### Graph
 - [ ] Depth first
 - [ ] Breadth first
 
-### Recursion
+##### Recursion
 - [ ] Fibonacci
 - [ ] Tower of Hanoi
 
-### Tree
+##### Tree
 - [ ] AVL
 - [ ] Heap tree
 
-### Algorithm Design
+## Algorithm Design
 
 ##### Dynamic Programming
 - [ ] Memoization
@@ -69,7 +71,7 @@ From Wikipedia
 - [ ] Dijkstra's algorithm
 - [ ] Prim-Kruskal's algorithm.
 
-### Patterns
+## Patterns
 
 ##### Creational patterns
 - [ ] Builder
