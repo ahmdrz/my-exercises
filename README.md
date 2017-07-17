@@ -23,9 +23,9 @@ From Wikipedia
 ## Data structure
 
 ##### List
-- [x] Simple linked list
-- [x] Doubly linked list
-- [ ] Circular linked list
+- [x] Simple linked list [thanks to tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/)
+- [x] Doubly linked list [thanks to tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/)
+- [ ] Circular linked list [thanks to tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/)
 
 ##### Stack
 - [x] Stack using linked list
@@ -35,8 +35,8 @@ From Wikipedia
 - [ ] Priority queue
 
 ##### Sort
-- [x] Bubble sort
-- [ ] Insertion sort
+- [x] Bubble sort [thanks to wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
+- [x] Insertion sort [thanks to wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
 - [ ] Selection sort
 - [ ] Merge sort
 - [ ] Quick sort
