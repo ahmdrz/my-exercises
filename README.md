@@ -26,10 +26,10 @@ From Wikipedia
 - [ ] Circular linked list
 
 ### Stack
-- [ ] Simple stack
+- [x] Stack using linked list
 
 ### Queue
-- [ ] Simple queue
+- [x] Queue using linked list
 - [ ] Priority queue
 
 ### Sort
