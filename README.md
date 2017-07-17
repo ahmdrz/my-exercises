@@ -57,6 +57,18 @@ From Wikipedia
 - [ ] AVL
 - [ ] Heap tree
 
+### Algorithm Design
+
+##### Dynamic Programming
+- [ ] Memoization
+
+##### Divide and Conquer
+- [ ] Strassen's matrix multiplication
+
+##### Greedy
+- [ ] Dijkstra's algorithm
+- [ ] Prim-Kruskal's algorithm.
+
 ### Patterns
 
 ##### Creational patterns
