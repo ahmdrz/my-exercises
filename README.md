@@ -35,7 +35,7 @@ From Wikipedia
 - [ ] Priority queue
 
 ##### Sort
-- [ ] Bubble sort
+- [x] Bubble sort
 - [ ] Insertion sort
 - [ ] Selection sort
 - [ ] Merge sort
