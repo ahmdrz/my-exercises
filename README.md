@@ -70,7 +70,7 @@ From Wikipedia
 
 ##### Creational patterns
 - [x] Builder
-- [ ] Factory
+- [x] Factory Method
 - [x] Singleton [sync.Once package](https://golang.org/src/sync/once.go)
 
 ##### Structural patterns
