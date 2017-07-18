@@ -79,7 +79,7 @@ From Wikipedia
 - [x] Singleton [sync.Once package](https://golang.org/src/sync/once.go)
 
 ##### Structural patterns
-- [ ] Decorator
+- [x] Decorator [decorators in Python](https://wiki.python.org/moin/PythonDecorators)
 - [ ] Module
 
 ##### Behavioral patterns
