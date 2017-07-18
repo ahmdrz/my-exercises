@@ -37,8 +37,8 @@ From Wikipedia
 ##### Sort
 - [x] Bubble sort [thanks to wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
 - [x] Insertion sort [thanks to wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
-- [ ] Selection sort
-- [ ] Merge sort
+- [x] Selection sort
+- [x] Merge sort [see the playground](https://play.golang.org/p/Ma2GXvj3XP)
 - [ ] Quick sort
 
 ##### Search
@@ -52,7 +52,7 @@ From Wikipedia
 - [ ] Breadth first
 
 ##### Recursion
-- [ ] Fibonacci
+- [x] Fibonacci
 - [ ] Tower of Hanoi
 
 ##### Tree
@@ -76,7 +76,7 @@ From Wikipedia
 ##### Creational patterns
 - [ ] Builder
 - [ ] Factory
-- [ ] Singleton
+- [x] Singleton [sync.Once package](https://golang.org/src/sync/once.go)
 
 ##### Structural patterns
 - [ ] Decorator
@@ -89,4 +89,4 @@ From Wikipedia
 
 ##### Concurrency patterns
 - [ ] Generators
-- [ ] Parallelism
+- [x] Parallelism [merge sort using goroutines](https://github.com/duffleit/golang-parallel-mergesort/blob/master/mergesort/mergesort.go)
