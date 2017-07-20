@@ -53,6 +53,8 @@ From Wikipedia
 From Wikipedia
 > Algorithm design is a specific method to create a mathematical process in solving problems. Applied algorithm design is algorithm engineering.
 
+- [ ] Read [Algorithm Design](https://www.hiredintech.com/algorithm-design/)
+
 ##### Dynamic Programming
 - [x] Memoization [fibonacci using dynamic programming](http://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
 
@@ -85,3 +87,22 @@ From Wikipedia
 ##### Concurrency patterns
 - [x] Generators
 - [x] Parallelism [merge sort using goroutines](https://github.com/duffleit/golang-parallel-mergesort/blob/master/mergesort/mergesort.go)
+
+
+## Golang
+
+##### Read more about :
+
+- [ ] Channels
+- [ ] Init function
+- [ ] Golang compiler
+- [ ] Shared memory (sync package)
+- [ ] ProtoBuf in Golang
+- [ ] Atomic package
+- [ ] Regex in Golang
+- [ ] Gorm package
+- [ ] Go concurrency patterns (Context)
+- [ ] Go concurrency patterns (Pipelines and cancellation)
+- [ ] Parallelization
+- [ ] Slice tricks [read](https://github.com/golang/go/wiki/SliceTricks)
+- [ ] Structured logging
