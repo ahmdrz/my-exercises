@@ -93,16 +93,44 @@ From Wikipedia
 
 ##### Read more about :
 
-- [ ] Channels
-- [ ] Init function
-- [ ] Golang compiler
-- [ ] Shared memory (sync package)
-- [ ] ProtoBuf in Golang
-- [ ] Atomic package
-- [ ] Regex in Golang
-- [ ] Gorm package
-- [ ] Go concurrency patterns (Context)
-- [ ] Go concurrency patterns (Pipelines and cancellation)
-- [ ] Parallelization
-- [ ] Slice tricks [read](https://github.com/golang/go/wiki/SliceTricks)
-- [ ] Structured logging
+##### Channels
+
+- [x] Basic
+- [x] Signals
+- [x] time.Tick
+
+##### Init function
+
+
+##### Golang compiler
+
+
+##### Shared memory (sync package)
+
+
+##### ProtoBuf in Golang
+
+
+##### Atomic package
+
+
+##### Regex in Golang
+
+
+##### Gorm package
+
+
+##### Go concurrency patterns (Context)
+
+
+##### Go concurrency patterns (Pipelines and cancellation)
+
+
+##### Parallelization
+
+
+##### Slice tricks [read](https://github.com/golang/go/wiki/SliceTricks)
+
+
+##### Structured logging
+
