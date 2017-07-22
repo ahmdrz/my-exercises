@@ -80,7 +80,7 @@ From Wikipedia
 - [ ] Module
 
 ##### Behavioral patterns
-- [ ] Observer
+- [x] Observer [observer pattern](https://play.golang.org/p/cr8jEmDmw0)
 - [ ] Iterator
 - [ ] Momento
 
@@ -101,6 +101,8 @@ From Wikipedia
 
 ##### Init function
 
+- [x] Basic
+- [x] In libraries
 
 ##### Golang compiler
 
@@ -116,6 +118,8 @@ From Wikipedia
 
 ##### Regex in Golang
 
+- [x] Validate email address in input
+- [x] Find email addresses in input
 
 ##### Gorm package
 
