@@ -81,8 +81,8 @@ From Wikipedia
 
 ##### Behavioral patterns
 - [x] Observer [observer pattern](https://play.golang.org/p/cr8jEmDmw0)
-- [ ] Iterator
-- [ ] Momento
+- [x] Iterator
+- [x] Momento
 
 ##### Concurrency patterns
 - [x] Generators
