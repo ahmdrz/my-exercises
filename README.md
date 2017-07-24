@@ -46,7 +46,7 @@ From Wikipedia
 ##### Tree
 - [ ] AVL
 - [ ] Heap tree
-- [ ] Binary search tree
+- [x] Binary search tree
 
 ## Algorithm Design
 
