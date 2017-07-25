@@ -109,12 +109,17 @@ From Wikipedia
 
 ##### Shared memory (sync package)
 
+- [x] sync.Mutex
+- [x] sync.Once
 
 ##### ProtoBuf in Golang
 
 
 ##### Atomic package
 
+- [x] Atomic counter
+- [x] States
+- [x] Once
 
 ##### Regex in Golang
 
@@ -123,6 +128,10 @@ From Wikipedia
 
 ##### Gorm package
 
+- [x] Model Definition
+- [ ] Associations
+- [ ] Callbacks
+- [ ] Transactions
 
 ##### Go concurrency patterns (Context)
 
