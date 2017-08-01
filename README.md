@@ -138,6 +138,11 @@ From Wikipedia
 
 ##### Go concurrency patterns (Pipelines and cancellation)
 
+- [x] Introduction
+- [x] Cancel
+- [x] Timeout
+- [x] Deadline
+- [x] Value
 
 ##### Parallelization
 
