@@ -135,17 +135,23 @@ From Wikipedia
 
 ##### Go concurrency patterns (Context)
 
-
-##### Go concurrency patterns (Pipelines and cancellation)
-
 - [x] Introduction
 - [x] Cancel
 - [x] Timeout
 - [x] Deadline
 - [x] Value
 
+##### Go concurrency patterns (Pipelines and cancellation)
+
+
 ##### Parallelization
 
+**Note**
+[Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
+[Slide](https://talks.golang.org/2012/concurrency.slide)
+
+- [x] Parallelism (MD5SUM)
+- [x] RSS Reader (Need more reading about parallelism)
 
 ##### Slice tricks [read](https://github.com/golang/go/wiki/SliceTricks)
 
