@@ -147,7 +147,9 @@ From Wikipedia
 ##### Parallelization
 
 **Note**
+
 [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
+
 [Slide](https://talks.golang.org/2012/concurrency.slide)
 
 - [x] Parallelism (MD5SUM)
