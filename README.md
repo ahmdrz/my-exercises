@@ -14,6 +14,7 @@ From Wikipedia
 - [x] Simple linked list [thanks to tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/)
 - [x] Doubly linked list [thanks to tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/)
 - [ ] Circular linked list [thanks to tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/)
+- [x] Lookup Table [No source needed](https://en.wikipedia.org/wiki/Lookup_table)
 
 ##### Stack
 - [x] Stack using linked list
@@ -53,17 +54,19 @@ From Wikipedia
 From Wikipedia
 > Algorithm design is a specific method to create a mathematical process in solving problems. Applied algorithm design is algorithm engineering.
 
-- [ ] Read [Algorithm Design](https://www.hiredintech.com/algorithm-design/)
+- [x] Read [Algorithm Design](https://www.hiredintech.com/algorithm-design/)
 
 ##### Dynamic Programming
 - [x] Memoization [fibonacci using dynamic programming](http://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
 
 ##### Divide and Conquer
 - [ ] Strassen's matrix multiplication
+- [x] Detect Unusual Number ( CAFE BAZAAR question )
 
 ##### Greedy
 - [ ] Dijkstra's algorithm
-- [ ] Prim-Kruskal's algorithm.
+- [ ] Prim-Kruskal's algorithm
+- [x] Customer Coins
 
 ## Patterns
 
@@ -147,9 +150,7 @@ From Wikipedia
 ##### Parallelization
 
 **Note**
-
 [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
-
 [Slide](https://talks.golang.org/2012/concurrency.slide)
 
 - [x] Parallelism (MD5SUM)
