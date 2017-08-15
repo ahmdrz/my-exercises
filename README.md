@@ -68,6 +68,12 @@ From Wikipedia
 - [ ] Prim-Kruskal's algorithm
 - [x] Customer Coins.
 
+##### Backtracking
+- [ ] Reading ...
+
+##### Branch and Bound
+- [ ] Reading ...
+
 ## Patterns
 
 From Wikipedia
