@@ -86,7 +86,7 @@ From Wikipedia
 
 ##### Structural patterns
 - [x] Decorator [decorators in Python](https://wiki.python.org/moin/PythonDecorators)
-- [ ] Module
+- [ ] Module *In Python, the pattern is built into the language, and each .py file is automatically a module.*
 
 ##### Behavioral patterns
 - [x] Observer [observer pattern](https://play.golang.org/p/cr8jEmDmw0)
@@ -164,6 +164,9 @@ From Wikipedia
 
 ##### Slice tricks [read](https://github.com/golang/go/wiki/SliceTricks)
 
+- [x] Training ...
 
 ##### Structured logging
 
+- [ ] Read Apache HTTP server logging method [read](https://httpd.apache.org/docs/1.3/logs.html)
+- [ ] Implement Apache logging on Golang HTTP server.
