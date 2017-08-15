@@ -66,7 +66,7 @@ From Wikipedia
 ##### Greedy
 - [ ] Dijkstra's algorithm
 - [ ] Prim-Kruskal's algorithm
-- [x] Customer Coins
+- [x] Customer Coins.
 
 ## Patterns
 
